@@ -88,3 +88,6 @@ Task updates are reflected in real-time.
 ![photo1](https://github.com/raja9492/Simple_to_do_list/assets/95007810/d3602e83-9c4f-4b02-bbf7-c4eacd1388c8)
 
 
+![photo6](https://github.com/raja9492/Simple_to_do_list/assets/95007810/a9251149-fcce-4e4c-afdb-2846586634ea)
+
+
