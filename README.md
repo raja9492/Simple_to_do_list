@@ -56,3 +56,8 @@ Launch the app, and you should see a list of tasks.
 Use the FAB button to add new tasks.
 Swipe left to delete tasks, or swipe right to edit tasks.
 Task updates are reflected in real-time.
+
+
+
+
+![photo5](https://github.com/raja9492/Simple_to_do_list/assets/95007810/174feb3f-ee27-4431-a97e-f51c52e8bae9)
