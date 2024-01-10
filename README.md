@@ -59,30 +59,25 @@ Task updates are reflected in real-time.
 
 
 
-
-![photo5](https://github.com/raja9492/Simple_to_do_list/assets/95007810/174feb3f-ee27-4431-a97e-f51c52e8bae9)
-
+![photo1](https://github.com/raja9492/Simple_to_do_list/assets/95007810/1cb01747-d1cb-4306-b73c-5479a759d73c)
 
 
+![photo2](https://github.com/raja9492/Simple_to_do_list/assets/95007810/56a70859-fb47-4afa-8558-1d479c941efb)
+
+![photo3](https://github.com/raja9492/Simple_to_do_list/assets/95007810/79118098-9ed3-4744-b6d4-23257b7d94fa)
+
+![photo4](https://github.com/raja9492/Simple_to_do_list/assets/95007810/b9003e8e-b5a7-4c6f-bffc-aa9af11aedef)
+
+![photo5](https://github.com/raja9492/Simple_to_do_list/assets/95007810/642faf61-7c02-4d86-886a-703c2c425ed1)
 
 
-![photo4](https://github.com/raja9492/Simple_to_do_list/assets/95007810/d6faa245-6353-46f3-a4d8-329dd5662753)
 
-
-
-![photo3](https://github.com/raja9492/Simple_to_do_list/assets/95007810/350f248c-70ec-4797-ab06-3d701483ea4c)
-
-
-![photo2](https://github.com/raja9492/Simple_to_do_list/assets/95007810/fff7d429-9ccf-49e9-aa6a-f6158357b68e)
-
-
-![photo1](https://github.com/raja9492/Simple_to_do_list/assets/95007810/e3aae6ce-e49f-426e-84ca-a154bf44733d)
+![photo6](https://github.com/raja9492/Simple_to_do_list/assets/95007810/ded1ebd7-ea9c-4bf4-aefb-5a3b3d5b7aa9)
+3e04f3fe7a)
 
 
 
 
 
-
-![photo6](https://github.com/raja9492/Simple_to_do_list/assets/95007810/a9251149-fcce-4e4c-afdb-2846586634ea)
 
 
